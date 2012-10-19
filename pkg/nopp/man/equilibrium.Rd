@@ -51,6 +51,7 @@ See the vignette for detailed explanations and other working examples.
 See Also as \code{\link{plot.nash.eq}}
 }
 \examples{
+\dontrun{
 data(italy2006)
 
 str(italy2006)
@@ -109,6 +110,6 @@ nash.eq
 # model 9: Monte Carlo simulation
 nash.eq <- equilibrium(model=m, data=election, MC=10)
 nash.eq
-
+}
 }
 

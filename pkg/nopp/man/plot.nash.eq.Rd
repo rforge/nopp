@@ -23,6 +23,7 @@ Luigi Curini, Stefano M. Iacus
 See Also as \code{\link{equilibrium}}
 }
 \examples{
+\dontrun{
 data(italy2006)
 election <- mlogit.data(italy2006 , shape="wide", choice="vote", varying=c(5:14), sep="_")
 m <- mlogit(vote~prox+partyID | gov_perf+sex+age+education, election, reflevel = "UL")
@@ -44,4 +45,5 @@ nash.eq
 plot(nash.eq)
 
 par(mfrow=c(1,1))
+}
 }
