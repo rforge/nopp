@@ -1,10 +1,10 @@
 Package: nopp
 Type: Package
 Title: Nash Optimal Party Positions
-Version: 1.0.2
-Date: 2012-10-19
+Version: 1.0.3
+Date: 2012-10-20
 Author: Luigi Curini, Stefano M. Iacus
-Maintainer: Luigi Curini <luigi.curini@unimi.it>, Stefano M. Iacus <stefano.iacus@unimi.it>
+Maintainer: Stefano M. Iacus <stefano.iacus@unimi.it>
 Description: Estimation of party/candidate ideological positions that correspond to
              a Nash equilibrium along a one-dimensional space.
 License: GPL (>= 2)
