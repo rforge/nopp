@@ -1,7 +1,7 @@
 Package: nopp
 Type: Package
 Title: Nash Optimal Party Positions
-Version: 1.0.4
+Version: 1.0.5
 Date: 2014-08-25
 Author: Luigi Curini, Stefano M. Iacus
 Maintainer: Stefano M. Iacus <stefano.iacus@unimi.it>
